@@ -1,0 +1,14 @@
+REPORTING 			            |  ANALYSIS
+What happened ?	                |  Why it happened ? 
+Help business stackeholders	    |  Help business stakeholders dive deeper
+understand what happened with   |  into why certain things happened and 
+the business to keep track of   |  derive actionable insights from the 
+the performance and detect early|  process
+problems when the numbers goes  |
+wrong 				  |
+
+
+Pandas: Thư viện hỗ trợ xử lý dữ liệu dạng bảng. Bảng dữ liệu trong pandas
+là dataframe, từng cột trong pandas là series
+OS(Operating System): môi trường tương tác với hệ điều hành của máy tính
+             
