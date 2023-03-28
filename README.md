@@ -1,2 +1,2 @@
 # Sales-Reporting
-A small project using Pandas library in Python 
+A project using Pandas library in Python 
